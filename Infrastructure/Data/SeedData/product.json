@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Super Gaming Stolica",
+    "Description": "Ergonomska stolica sa podesivim naslonom i vrhunskom udobnošću za duge sate igranja.",
+    "Price": 249.99,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Namještaj",
+    "Brand": "TechComfort",
+    "quantityInStock": 15
+  },
+  {
+    "Name": "Mehanička Tipkovnica",
+    "Description": "RGB osvijetljena tipkovnica sa brzim odzivom za profesionalne igrače.",
+    "Price": 89.99,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "TechGear",
+    "quantityInStock": 25
+  },
+  {
+    "Name": "Wireless Miš",
+    "Description": "Precizan bežični miš sa dugotrajnom baterijom.",
+    "Price": 45.50,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "LogiTech",
+    "quantityInStock": 40
+  },
+  {
+    "Name": "Gaming Monitor 27\"",
+    "Description": "Full HD monitor sa osvježavanjem od 144Hz za fluidno igranje.",
+    "Price": 299.99,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "ViewMaster",
+    "quantityInStock": 10
+  },
+  {
+    "Name": "Radni Stol",
+    "Description": "Prostrani stol sa integrisanim upravljanjem kablovima.",
+    "Price": 150.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Namještaj",
+    "Brand": "OfficePro",
+    "quantityInStock": 5
+  },
+  {
+    "Name": "Gaming Slušalice",
+    "Description": "Slušalice sa surround zvukom i mikrofonom za jasnu komunikaciju.",
+    "Price": 65.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "AudioZone",
+    "quantityInStock": 30
+  },
+  {
+    "Name": "Podloga za miša",
+    "Description": "Velika podloga sa tekstilnom površinom za preciznost.",
+    "Price": 15.99,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "MouseMaster",
+    "quantityInStock": 100
+  },
+  {
+    "Name": "LED Traka",
+    "Description": "RGB LED traka sa daljinskim upravljačem za ambijentalno osvjetljenje.",
+    "Price": 25.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "LightUp",
+    "quantityInStock": 50
+  },
+  {
+    "Name": "Web Kamera",
+    "Description": "Full HD kamera za strimovanje i video pozive.",
+    "Price": 75.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "StreamCam",
+    "quantityInStock": 20
+  },
+  {
+    "Name": "USB Hub",
+    "Description": "Brzi 4-portni USB 3.0 hub za povezivanje više uređaja.",
+    "Price": 20.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "ConnectIt",
+    "quantityInStock": 60
+  },
+  {
+    "Name": "Gaming Kontroler",
+    "Description": "Bežični kontroler kompatibilan sa PC i konzolama.",
+    "Price": 55.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "PlayMaster",
+    "quantityInStock": 35
+  },
+  {
+    "Name": "Stalak za slušalice",
+    "Description": "Aluminijumski stalak za uredan gaming kutak.",
+    "Price": 19.99,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Namještaj",
+    "Brand": "DeskSetup",
+    "quantityInStock": 45
+  },
+  {
+    "Name": "Eksterni Hard Disk 1TB",
+    "Description": "Prijenosni disk za sigurno čuvanje vaših podataka.",
+    "Price": 60.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "DataSafe",
+    "quantityInStock": 25
+  },
+  {
+    "Name": "Zvučnici 2.1",
+    "Description": "Sistem zvučnika sa subwooferom za dubok bas.",
+    "Price": 85.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "SoundWave",
+    "quantityInStock": 15
+  },
+  {
+    "Name": "Tipkovnica i Miš Set",
+    "Description": "Bežični set za čisti radni prostor.",
+    "Price": 40.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "ComboSet",
+    "quantityInStock": 50
+  },
+  {
+    "Name": "Držač za monitor",
+    "Description": "Podesivi držač za montiranje monitora na stol.",
+    "Price": 35.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Namještaj",
+    "Brand": "ErgoView",
+    "quantityInStock": 12
+  },
+  {
+    "Name": "Mikrofon za snimanje",
+    "Description": "Kvalitetan mikrofon sa postoljem za kreatore sadržaja.",
+    "Price": 120.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "VoicePro",
+    "quantityInStock": 8
+  },
+  {
+    "Name": "Podloga za stolicu",
+    "Description": "Prozirna podloga koja štiti pod od grebanja.",
+    "Price": 30.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Namještaj",
+    "Brand": "FloorGuard",
+    "quantityInStock": 20
+  },
+  {
+    "Name": "Ekran za privatnost",
+    "Description": "Filter koji onemogućava gledanje ekrana sa strane.",
+    "Price": 50.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Tehnologija",
+    "Brand": "SecureScreen",
+    "quantityInStock": 10
+  },
+  {
+    "Name": "Gaming Stol sa rasvjetom",
+    "Description": "Stol sa integrisanim LED svjetlima i držačem za piće.",
+    "Price": 220.00,
+    "PictureUrl": "https://smartwrh.com/storage/images/posts/audi-5-facts%20(1)_1736346259.jpg",
+    "Type": "Namještaj",
+    "Brand": "GamerDesk",
+    "quantityInStock": 6
+  }
+]
