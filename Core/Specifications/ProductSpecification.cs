@@ -1,14 +1,18 @@
 using Core.Entities;
+using Core.Specifications;
 
 namespace Core.Interfaces;
 
 public class ProductSpecification : BaseSpecification<Product>
 {
-    public ProductSpecification(string ? brand, string? type, string? sort) : 
-    base(p => (string.IsNullOrEmpty(brand) || p.Brand == brand) && 
-              (string.IsNullOrEmpty(type) || p.Type == type))
+    public ProductSpecification(ProductSpecParams specParams) : 
+    base(x => (string.IsNullOrEmpty(specParams.Search) || x.Name.ToLower().Contains(specParams.Search)) &&
+              (specParams.Brands.Count == 0 || specParams.Brands.Contains(x.Brand)) && 
+              (specParams.Types.Count == 0 || specParams.Types.Contains(x.Type)))
     {
-        switch (sort)
+        ApplyPaging((specParams.PageIndex - 1) * specParams.PageSize, specParams.PageSize);
+
+        switch (specParams.Sort)
         {
             case "priceAsc":
                 AddOrderBy(p => p.Price);
